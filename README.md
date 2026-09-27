@@ -23,13 +23,6 @@
 
 ##
 <div align="center">
-  <p><strong>GitHub Analytics</strong></p>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThaisPinheiro&theme=dark&hide_border=false"/> &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisPinheiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-##
-<div align="center">
   <p align="center">🔗 <strong>Conecte-se comigo</strong></p>
  	<a href="https://www.twitch.tv/senhoritaprice" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:thaispinheiro364@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
