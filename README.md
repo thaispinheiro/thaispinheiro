@@ -8,7 +8,6 @@
   <p>Sou Técnica em Informática e graduada pela FATEC, com experiência em desenvolvimento de software utilizando Java, Quarkus, Spring, PHP, JavaScript, TypeScript, Node.js e ReactJS. Tenho atuação em testes unitários, versionamento de código, metodologias ágeis e boas práticas de design e arquitetura de software.</p>
   <p>Busco constantemente aprimorar meus conhecimentos e acompanhar as tendências e boas práticas do desenvolvimento backend e frontend, com foco em qualidade de código, escalabilidade e eficiência das aplicações.</p>
   <p>Entre minhas principais conquistas estão a publicação de artigo na Revista de Ciências e Tecnologia da Fatec Lins, o 3º lugar no Concurso de Artigos Técnicos em Português da InterSystems (categoria Premiação Especialista), além do reconhecimento como Melhor Projeto de Graduação do semestre do meu curso e período. </p>
-  <p><strong>Inglês: TOEIC 500</strong></p>
 </div>
 
 ##
